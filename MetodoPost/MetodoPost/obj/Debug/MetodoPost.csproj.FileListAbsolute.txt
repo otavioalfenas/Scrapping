@@ -1,0 +1,10 @@
+C:\Users\otavio\source\repos\MetodoPost\MetodoPost\bin\Debug\MetodoPost.exe.config
+C:\Users\otavio\source\repos\MetodoPost\MetodoPost\bin\Debug\MetodoPost.exe
+C:\Users\otavio\source\repos\MetodoPost\MetodoPost\bin\Debug\MetodoPost.pdb
+C:\Users\otavio\source\repos\MetodoPost\MetodoPost\bin\Debug\HtmlAgilityPack.dll
+C:\Users\otavio\source\repos\MetodoPost\MetodoPost\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\otavio\source\repos\MetodoPost\MetodoPost\bin\Debug\HtmlAgilityPack.xml
+C:\Users\otavio\source\repos\MetodoPost\MetodoPost\obj\Debug\MetodoPost.csprojResolveAssemblyReference.cache
+C:\Users\otavio\source\repos\MetodoPost\MetodoPost\obj\Debug\MetodoPost.csproj.CoreCompileInputs.cache
+C:\Users\otavio\source\repos\MetodoPost\MetodoPost\obj\Debug\MetodoPost.exe
+C:\Users\otavio\source\repos\MetodoPost\MetodoPost\obj\Debug\MetodoPost.pdb
